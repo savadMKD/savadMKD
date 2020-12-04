@@ -2,6 +2,8 @@
 #### I am a Front End Web Develouper
 Iam Studying on 8th Standard. Iam Working as a Freelancer as a Front-End Web Develouper.. my passion that takes me through software and coding works
 
+![Profile views](https://gpvc.arturio.dev/savadMKD)
+
 Skills: HTML / CSS /  JS 
 
 - 🔭 I’m currently working on Freelancer as Front End Web developer 
